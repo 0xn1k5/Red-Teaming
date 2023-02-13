@@ -1,6 +1,8 @@
-# Certified Read Team Professional (CRTP) - Active Directory Security Cheatsheet 
+# Certified Read Team Professional (CRTP) - Cheatsheet 
 
  **Name** : **CRTP - Active Directory Command Cheat Sheet (Powershell)**
+ 
+ **Course Link* : https://www.alteredsecurity.com/adlab
 
  **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
 

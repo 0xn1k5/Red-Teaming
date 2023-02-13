@@ -1,6 +1,8 @@
-# Certified Read Team Operator (CRTO) - Active Directory Security Cheatsheet [Zero Point Security]
+# Certified Read Team Operator (CRTO) - Cheatsheet [Zero Point Security]
 
  **Name** : **CRTO - Red Teaming Command Cheat Sheet (Cobalt Strike)**
+ 
+ ***Course Link* : https://training.zeropointsecurity.co.uk/courses/red-team-ops
 
  **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
 

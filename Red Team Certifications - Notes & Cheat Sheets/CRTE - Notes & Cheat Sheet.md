@@ -1,6 +1,8 @@
-# Certified Read Team Professional (CRTP) - Active Directory Security Cheatsheet [Altered Security / Pentester Academy]
+# Certified Read Team Expert (CRTE) - Cheatsheet 
 
  **Name** : **CRTE - Active Directory Command Cheat Sheet (Powershell)**
+
+ **Course Link* : https://www.alteredsecurity.com/redteamlab
 
  **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
 
