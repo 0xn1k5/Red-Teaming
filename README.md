@@ -25,5 +25,5 @@ Comprehensive Notes & Cheat Sheet for Top-Notch Red Team Certifications:
 
 CRTP -> CRTE -> CRTO -> PACES/CRTM -> CRTL
 
-**Disclaimer** : This cheat sheet has been compiled from multiple sources with the objective of aiding fellow pentesters and red teamers in their learning. The credit for all the tools and techniques belongs to their original authors. I have added a reference to the original source at the bottom of this document.  
+**Disclaimer** : This cheat sheet has been compiled from multiple sources with the objective of aiding fellow pentesters and red teamers in their learning. The credit for all the tools and techniques belongs to their original authors. I have added a reference to the original source at the bottom of respective document.  
 
