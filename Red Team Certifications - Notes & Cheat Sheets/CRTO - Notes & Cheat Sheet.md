@@ -2,7 +2,7 @@
 
  **Name** : **CRTO - Red Teaming Command Cheat Sheet (Cobalt Strike)**
  
- ***Course Link** : https://training.zeropointsecurity.co.uk/courses/red-team-ops
+ **Course Link** : https://training.zeropointsecurity.co.uk/courses/red-team-ops
 
  **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
 
