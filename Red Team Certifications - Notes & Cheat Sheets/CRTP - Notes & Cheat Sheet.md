@@ -1,14 +1,14 @@
-# Red Team - Active Directory Security Cheatsheet 
+# Certified Read Team Professional (CRTP) - Active Directory Security Cheatsheet 
 
- **Name** : **Active Directory Command Cheat Sheet (Powershell)**
+ **Name** : **CRTP - Active Directory Command Cheat Sheet (Powershell)**
 
- **Compiled By** : **Nikhil Raj ( Twitter: 0xn1k5 | Mail: nikhilraj149[at]gmail.com )**
+ **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
 
  **Version: 1.0**
  
  **Last Updated** : 23 Sep 2022
 
- **Disclaimer** : This cheat sheet has been compiled from multiple sources with an objective to aid fellow Pentesters/RedTeamers in their learning and engagements. The credit for all the Tools and Techniques developed belogs to thier original authors. I have added the reference to the original source in the bottom of this document.  
+ **Disclaimer** : This cheat sheet has been compiled from multiple sources with the objective of aiding fellow pentesters and red teamers in their learning. The credit for all the tools and techniques belongs to their original authors. I have added a reference to the original source at the bottom of this document.  
 
 
 # AV Evasion
@@ -858,6 +858,7 @@ C) Stealthier Method for creating Golden ticket using DC Account
 # References
 
 - https://www.pentesteracademy.com/activedirectorylab
+- https://www.alteredsecurity.com/adlab
 - https://adsecurity.org/?p=2288
 - https://adsecurity.org/?page_id=1821
 - https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1

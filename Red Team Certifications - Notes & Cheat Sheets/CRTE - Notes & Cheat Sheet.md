@@ -1,4 +1,14 @@
+# Certified Read Team Professional (CRTP) - Active Directory Security Cheatsheet [Altered Security / Pentester Academy]
 
+ **Name** : **CRTE - Active Directory Command Cheat Sheet (Powershell)**
+
+ **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
+
+ **Version: 1.0**
+ 
+ **Last Updated** : 13 Feb 2023
+
+ **Disclaimer** : This cheat sheet has been compiled from multiple sources with the objective of aiding fellow pentesters and red teamers in their learning. The credit for all the tools and techniques belongs to their original authors. I have added a reference to the original source at the bottom of this document.  
 
 #### Basic Operations
 
@@ -1269,7 +1279,7 @@ Get-SQLQuery -Query "EXECUTE AS LOGIN = 'sqladmin';  EXECUTE AS LOGIN = 'sa'; e
 
 #### Reference:
 https://github.com/0xJs/CRTE-Cheatsheet/blob/main/README.md
-
+https://www.alteredsecurity.com/redteamlab
 
 
 
