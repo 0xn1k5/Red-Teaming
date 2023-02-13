@@ -2,7 +2,7 @@
 
  **Name** : **CRTP - Active Directory Command Cheat Sheet (Powershell)**
  
- **Course Link* : https://www.alteredsecurity.com/adlab
+ **Course Link** : https://www.alteredsecurity.com/adlab
 
  **Compiled By** : **Nikhil Raj ( Twitter: https://twitter.com/0xn1k5 | Blog: https://organicsecurity.in )**
 

@@ -1,4 +1,4 @@
-# Certified Read Team Operator (CRTO) - Cheatsheet [Zero Point Security]
+# Certified Read Team Operator (CRTO) - Cheatsheet 
 
  **Name** : **CRTO - Red Teaming Command Cheat Sheet (Cobalt Strike)**
  
